@@ -1,5 +1,14 @@
 # Pavan Wadile — Resume & Profile Website 📄
 
+<div align="center">
+
+**Portfolio • Professional Profile**
+
+<img src="https://img.shields.io/badge/Web-Development-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white">
+
+</div>
+
+
 A professional online resume and personal profile website presenting **education, skills, projects, achievements, and developer experience**.
 
 ## 🌐 Live Website
@@ -23,3 +32,18 @@ This project serves as a digital extension of Pavan Wadile's resume and professi
 
 ## 👨‍💻 Author
 **Pavan Wadile** · B.Tech Information Technology Student
+
+
+## 🔧 Engineering Focus
+
+Professional profile, education, skills, projects and achievements.
+
+---
+
+<div align="center">
+
+**Pavan Wadile · B.Tech Information Technology**
+
+[GitHub](https://github.com/PavanWadile77)
+
+</div>
